@@ -1,0 +1,33 @@
+[
+  {
+    "code":"TW",
+    "name":"Taiwan",
+    "population":23500000,
+
+    "maleBirthRate":0.512,
+
+    "gdpPPP":82000,
+
+    "happiness":6.9,
+
+    "healthcareIndex":88,
+
+    "freedomIndex":92
+  },
+
+  {
+    "code":"US",
+    "name":"United States",
+    "population":340000000,
+
+    "maleBirthRate":0.511,
+
+    "gdpPPP":85000,
+
+    "happiness":6.7,
+
+    "healthcareIndex":78,
+
+    "freedomIndex":83
+  }
+]
