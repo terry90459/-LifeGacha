@@ -1,0 +1,27 @@
+{
+  "TW":[
+    {
+      "name":"Taipei",
+      "population":2500000,
+      "urbanScore":50
+    },
+    {
+      "name":"New Taipei",
+      "population":4000000,
+      "urbanScore":30
+    }
+  ],
+
+  "US":[
+    {
+      "name":"California",
+      "population":39000000,
+      "urbanScore":40
+    },
+    {
+      "name":"Massachusetts",
+      "population":7000000,
+      "urbanScore":60
+    }
+  ]
+}
