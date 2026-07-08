@@ -1,0 +1,31 @@
+{
+  "TW":[
+    {
+      "name":"Han",
+      "percent":96
+    },
+    {
+      "name":"Indigenous",
+      "percent":4
+    }
+  ],
+
+  "US":[
+    {
+      "name":"White",
+      "percent":58
+    },
+    {
+      "name":"Black",
+      "percent":13
+    },
+    {
+      "name":"Asian",
+      "percent":6
+    },
+    {
+      "name":"Latino",
+      "percent":19
+    }
+  ]
+}
