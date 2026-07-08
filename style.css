@@ -1,0 +1,45 @@
+body{
+    background:#111827;
+    color:white;
+    font-family:sans-serif;
+    text-align:center;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:30px;
+}
+
+button{
+    font-size:20px;
+    padding:15px 30px;
+    cursor:pointer;
+}
+
+.card{
+    margin-top:25px;
+    background:#1f2937;
+    border-radius:12px;
+    padding:25px;
+}
+
+.UR{
+    color:gold;
+}
+
+.SSR{
+    color:orange;
+}
+
+.SR{
+    color:#bb86fc;
+}
+
+.R{
+    color:#6ea8ff;
+}
+
+.P{
+    color:#ff6666;
+}
