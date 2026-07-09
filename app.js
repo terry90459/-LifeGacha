@@ -1,3 +1,6 @@
+console.log("APP LOADED");
+console.log("MODULE OK");
+顯示更多行
 import { generateLife }
 from "./generator.js";
 
